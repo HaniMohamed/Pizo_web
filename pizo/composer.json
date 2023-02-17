@@ -7,7 +7,7 @@
     "require": {
         "php": "^5.5.9",
         "laravel/framework": "5.2.*",
-        "firebase/php-jwt": "^5.0",
+        "firebase/php-jwt": "^6.0",
         "tymon/jwt-auth": "^0.5.12",
         "guzzlehttp/guzzle": "~6.0",
         "barryvdh/laravel-ide-helper": "^2.4"
